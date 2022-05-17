@@ -1,2 +1,4 @@
 # stem-training
-## day one
+## Day one
+Learning markdown
+Installing python
