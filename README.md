@@ -5,3 +5,4 @@ Installing python
 ## Day two
 learning python data types
 learning mathematical functions
+## Day three
