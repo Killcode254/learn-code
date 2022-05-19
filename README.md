@@ -8,3 +8,4 @@ learning mathematical functions
 making a simple calculator
 ## Day three
 making a complex calculator
+learning how to manipulate strings
