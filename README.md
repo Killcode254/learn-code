@@ -12,6 +12,7 @@ learning how to manipulate strings
 ## Day four
 control flow
 if statements
+elif else
 while loops
 break, continue?
 for loops
