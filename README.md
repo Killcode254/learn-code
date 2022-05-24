@@ -14,9 +14,12 @@ control flow
 if statements
 elif else
 break, continue?
-##Day five
+## Day five
 while loops
 for loops
-lists
 indexes
 strings as lists or not ?
+## Day six
+lists
+tuples
+sets
