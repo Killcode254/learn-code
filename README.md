@@ -23,3 +23,5 @@ strings as lists or not ?
 lists
 tuples
 sets
+def
+return
