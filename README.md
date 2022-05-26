@@ -25,3 +25,5 @@ tuples
 sets
 def
 return
+## Day seven
+dictionaries
