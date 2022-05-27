@@ -27,3 +27,6 @@ def
 return
 ## Day seven
 dictionaries in python
+error handing try,except
+## Day eight
+
