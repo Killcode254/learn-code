@@ -31,8 +31,17 @@ error handing try,except
 ## Day eight
 OOP
 ## Day nine
+importing modules
 GUI
 ## Day ten
-importing modules
-## Day eleven
 buttons
+## Day eleven
+labels
+entry in GUI
+## Day twelve
+try
+except
+else
+finally
+
+
