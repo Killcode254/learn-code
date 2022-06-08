@@ -47,5 +47,9 @@ finally
 pygame
 ## Day fourteen
 creating space invaders using pygame
+## Day fifteen
+moe on functions
+## Day sixteen
+Introduction to IOT and Robotics
 
 
