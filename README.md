@@ -61,3 +61,14 @@ Installing modules on arduino
 ## Day twenty one
 Assembling an RC car
 ## Day twenty two
+writing code for the RC car
+## Day twenty three
+Writing code for the RC car
+## Day twenty four
+Uploading the code for the RC car to the esp 32
+## Day twenty five
+Running the RC car
+## Day twenty five
+modifying the RC car
+## Day twenty six
+Running the modified RC car
