@@ -74,3 +74,5 @@ modifying the RC car
 Running the modified RC car
 ## Day twenty seven
 IoT
+## Day twenty eight
+Programming a raspberry pi pico using micropython
